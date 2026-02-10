@@ -15,7 +15,7 @@
 - 🔥 Strong in **Core Java, Backend, and Web Development**  
 - 🧠 Love problem-solving, debugging, and building projects  
 - 🚀 Goal: Become industry-ready Full Stack Engineer  
-- 📍 Banglore, India  
+- 📍 Banglore, India
 
 ---
 
