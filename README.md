@@ -44,8 +44,8 @@
 
 ## 💼 Internship Experience  
 
-### 👨‍💻 Java Full Stack Intern – JSpiders  
-- Worked with Core Java, JDBC, Hibernate  
+### 👨‍💻 Java Full Stack Intern – RoboWave Pvt. Ltd 
+- Worked with Core Java, Hibernate, Spring, Spring Boot
 - Developed frontend using HTML, CSS, JavaScript  
 - Strengthened real-world development skills  
 
