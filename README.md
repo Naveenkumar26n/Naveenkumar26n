@@ -17,7 +17,6 @@
 - 🚀 Goal: Become industry-ready Full Stack Engineer  
 - 📍 Banglore, India
 
-
 ---
 
 ## 🛠️ Tech Stack  
